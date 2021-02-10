@@ -1,4 +1,3 @@
-# AAACheckHook
 AAACheckHook 中文介绍
 ==============
 
